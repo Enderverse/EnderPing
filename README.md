@@ -10,13 +10,13 @@
 
 <p align="center">
 	<a href="https://github.com/Enderverse/EnderPing/fork">
-		<img alt="GitHub Forks" src="https://img.shields.io/github/forks/Enderverse/Ender?label=Fork&style=social" />
+		<img alt="GitHub Forks" src="https://img.shields.io/github/forks/Enderverse/EnderPing?label=Fork&style=social" />
 	</a>
 	<a href="https://github.com/Enderverse/EnderPing">
-		<img alt="GitHub Stars" src="https://img.shields.io/github/stars/Enderverse/Ender?label=Star&style=social" />
+		<img alt="GitHub Stars" src="https://img.shields.io/github/stars/Enderverse/EnderPing?label=Star&style=social" />
 	</a>
 	<a href="https://github.com/Enderverse/EnderPing/subscription">
-		<img alt="GitHub Watchers" src="https://img.shields.io/github/watchers/Enderverse/Ender?label=Watch&style=social" />
+		<img alt="GitHub Watchers" src="https://img.shields.io/github/watchers/Enderverse/EnderPing?label=Watch&style=social" />
 	</a>
 </p>
 
