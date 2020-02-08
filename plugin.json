@@ -1,0 +1,10 @@
+{
+	"name": "EnderPing",
+	"description": "Adds a ping command that pongs",
+	"version": "0.1.0",
+	"author": {
+		"name": "Tyler Richards",
+		"email": "hello@tjrgg.xyz"
+	},
+	"dependencies": {}
+}
