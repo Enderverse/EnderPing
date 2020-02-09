@@ -9,8 +9,8 @@ module.exports = class extends Command {
 	}
 
 	async run(message) {
-		const msg = await message.respond(message.guild.language.get('COMMAND_PING'));
-		return message.respond(message.guild.language.get('COMMAND_PINGPONG', (msg.editedTimestamp || msg.createdTimestamp) - (message.editedTimestamp || message.createdTimestamp), Math.round(this.client.ws.ping)));
+		const msg = await message.send(`${message.guild.language.get('COMMAND_PING')}`);
+		return message.send(`${message.guild.language.get('COMMAND_PINGPONG', (msg.editedTimestamp || msg.createdTimestamp) - (message.editedTimestamp || message.createdTimestamp), Math.round(this.client.ws.ping))}`);
 	}
 
 };
